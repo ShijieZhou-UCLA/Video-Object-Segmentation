@@ -45,7 +45,6 @@ COMS W4995: Applied Deep Learning
 
 `models_RCF`: training models of innovation part*
 
-`tensorboard_graph`: tensorboard graph screenshot
 
 ##### *: Due to the 100mb file restriction of Github, the files in these two folders cannot be uploaded. Please download [here](https://drive.google.com/open?id=1-llSA2tXeoJtWdlEqYZtMrQKqyCkKMg8) and replace them.
 
